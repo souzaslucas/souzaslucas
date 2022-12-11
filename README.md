@@ -1,4 +1,4 @@
-## Bom-Vindo, eu sou um entusiasta Front-End e Desenvolvimento Web.
+## Bem-Vindo, sou um entusiasta Front-End e em Desenvolvimento Web.
 
 <div align="center">
   <a href="https://github.com/souzaslucas">
