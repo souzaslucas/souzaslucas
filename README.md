@@ -1,4 +1,4 @@
-## Bom-Vindo, eu sou o Lucas Souza, entusiasta Front-End e Desenvolvimento Web.
+## Bom-Vindo, eu sou um entusiasta Front-End e Desenvolvimento Web.
 
 <div align="center">
   <a href="https://github.com/souzaslucas">
