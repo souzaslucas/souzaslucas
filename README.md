@@ -29,7 +29,7 @@
  <ul>
  <li> A studant o Systems Analysis and Development (2022 - atual) </li>
  <li> I have an MBA in Business Management. </li>
- <li> Negociation, Comunication and Group Work was others temes of study that i like! </li>
- <li> Problem Solution, Criativity, Resilience and Interpersonal Relations was some of my  great skills. </li>
+ <li> On my free time, i like to study about Negotiation, Comunication and Group Work! </li>
+ <li> Some of may great skills: Problem Solution, Criativity, Resilience and Interpersonal Relations. </li>
  </ul>
  </div>
